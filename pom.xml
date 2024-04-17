@@ -10,11 +10,11 @@
 	</parent>
 	<groupId>com.brunosong</groupId>
 	<artifactId>Database_Exam</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>Database_Exam</name>
 	<description>Database_Exam</description>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
